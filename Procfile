@@ -1,4 +1,7 @@
-web: gunicorn mynewflaskapp700:app
+web: gunicorn app:app
+
+
+
 
 
 
